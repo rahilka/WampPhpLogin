@@ -1,0 +1,3 @@
+2017-06-02T11:41:54.639636Z 0 [Warning] InnoDB: Resizing redo log from 2*3072 to 2*320 pages, LSN=2525613
+2017-06-02T11:41:54.903810Z 0 [Warning] InnoDB: Starting to delete and rewrite log files.
+2017-06-02T11:41:55.451623Z 0 [Warning] InnoDB: New log files created, LSN=2525613

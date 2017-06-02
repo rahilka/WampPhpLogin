@@ -1,0 +1,7 @@
+[Fri Jun 02 13:41:54.171178 2017] [auth_digest:notice] [pid 5584:tid 424] AH01757: generating secret for digest authentication ...
+[Fri Jun 02 13:41:54.501546 2017] [mpm_winnt:notice] [pid 5584:tid 424] AH00455: Apache/2.4.23 (Win64) PHP/5.6.25 configured -- resuming normal operations
+[Fri Jun 02 13:41:54.501546 2017] [mpm_winnt:notice] [pid 5584:tid 424] AH00456: Apache Lounge VC14 Server built: Jul  1 2016 11:43:51
+[Fri Jun 02 13:41:54.501546 2017] [core:notice] [pid 5584:tid 424] AH00094: Command line: 'c:\\wamp64\\bin\\apache\\apache2.4.23\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.23'
+[Fri Jun 02 13:41:54.506547 2017] [mpm_winnt:notice] [pid 5584:tid 424] AH00418: Parent: Created child process 6252
+[Fri Jun 02 13:41:55.159537 2017] [auth_digest:notice] [pid 6252:tid 312] AH01757: generating secret for digest authentication ...
+[Fri Jun 02 13:41:55.387984 2017] [mpm_winnt:notice] [pid 6252:tid 312] AH00354: Child: Starting 64 worker threads.
